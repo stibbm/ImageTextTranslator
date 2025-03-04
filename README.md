@@ -65,7 +65,7 @@ Translates text in images and writes translated text back onto the image
 {
 	"model": "deepseek",
 	"prompt": "{prompt goes here}",
-	"temperature": 0.7, 	// optional
+	"temperature": 0.7, 		// optional
 	"top_k": 40, 			// optional
 	"stream": false 		// optional
 }
