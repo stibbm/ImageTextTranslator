@@ -1,4 +1,4 @@
-# GoogleOCR3
+# Image Text Translator
 
 ## About the Project
 
