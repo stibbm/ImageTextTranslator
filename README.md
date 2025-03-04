@@ -42,7 +42,7 @@ Translates text in images and writes translated text back onto the image
 
 
 
-## How Ollama for translation
+## How to use local Ollama for translation
 
 *Prompt*
 
